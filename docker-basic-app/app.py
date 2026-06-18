@@ -1,0 +1,1 @@
+print("Hello DevOps - Docker Container Running")
